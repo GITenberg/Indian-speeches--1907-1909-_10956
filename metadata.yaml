@@ -1,0 +1,28 @@
+_repo: Indian-speeches--1907-1909-_10956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Colonies -- Asia -- Administration'
+- !lcsh 'India'
+- !lcc 'DS'
+- GITenberg
+title: Indian speeches (1907-1909)
+url: http://www.gutenberg.org/ebooks/10956
